@@ -1,0 +1,26 @@
+.blue {
+   background-color: blue;
+}
+
+.green {
+   background-color: green;
+}
+
+.green, .blue {
+   height: 200px;
+   width: 200px;
+}
+
+.hidden {
+   display: none;
+}
+
+.show {
+   display: block;
+   background-color: rebeccapurple;
+}
+
+.hidden, .show {
+   height: 200px;
+   width: 200px;
+}
