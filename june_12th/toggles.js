@@ -29,6 +29,7 @@ colorChangeButton.addEventListener("click", colorChangeToggle);
 GOAL: A function that shows or hides an element, activated by an event listener.
 */
 
+/* Practice 2 */
 function showHideToggle() {
    const showHideDiv = document.querySelector("#showHide");
 

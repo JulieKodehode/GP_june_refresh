@@ -5,7 +5,10 @@ function method_1() {
 };
 
 //
-/*
+//
+//
+
+/**
 Method 2 uses a regular function that will be called upon when the event listener receives a click
 */
 
@@ -19,6 +22,8 @@ const method_2_button = document.querySelector("#method_2");
 
 method_2_button.addEventListener("click", method_2);
 
+//
+//
 //
 
 const method_3_button = document.querySelector("#method_3");
